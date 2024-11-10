@@ -36,4 +36,9 @@
      <li>Parsevals Relation</li>
     </ul>
      <li>Overlap Add and Overlap Save Method</li>
+     <li>Implementation of FIR Filter</li>		
+     <li>Familiarization of DSP Hardware</li>
+     <li>Generation of sine wave using DSP Kit</li>		
+     <li>Linear Convolution using DSP Kit</li>		
+
    </ol>
